@@ -6,5 +6,6 @@
  * Time: 17:06
  */
 return [
-    'img_prefix' => 'http://localhost:8080/images'
+    'img_prefix' => 'http://localhost:8080/images',
+    'token_expire_in' => 7200
 ];
